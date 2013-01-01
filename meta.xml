@@ -1,0 +1,5 @@
+<meta>
+<info type="Script" description="saves stat in Acc-Data" name="stat-system" version="0.1" author="cs8898"/>
+<script src="./main_c.lua" type="client" />
+<script src="./main_s.lua" type="server" />
+</meta>
